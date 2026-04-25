@@ -1,2 +1,0 @@
-[console_scripts]
-robocup_vision = vision_detection.vision_node:main
