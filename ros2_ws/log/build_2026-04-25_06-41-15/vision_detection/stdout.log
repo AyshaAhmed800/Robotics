@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/vision_detection/vision_detection.egg-info
+writing ../../build/vision_detection/vision_detection.egg-info/PKG-INFO
+writing dependency_links to ../../build/vision_detection/vision_detection.egg-info/dependency_links.txt
+writing entry points to ../../build/vision_detection/vision_detection.egg-info/entry_points.txt
+writing requirements to ../../build/vision_detection/vision_detection.egg-info/requires.txt
+writing top-level names to ../../build/vision_detection/vision_detection.egg-info/top_level.txt
+writing manifest file '../../build/vision_detection/vision_detection.egg-info/SOURCES.txt'
+reading manifest file '../../build/vision_detection/vision_detection.egg-info/SOURCES.txt'
+writing manifest file '../../build/vision_detection/vision_detection.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /workspaces/Robotics/ros2_ws/build/vision_detection/build/lib/vision_detection
+copying vision_detection/__init__.py -> /workspaces/Robotics/ros2_ws/build/vision_detection/build/lib/vision_detection
+copying vision_detection/setup.py -> /workspaces/Robotics/ros2_ws/build/vision_detection/build/lib/vision_detection
+copying vision_detection/vision_node.py -> /workspaces/Robotics/ros2_ws/build/vision_detection/build/lib/vision_detection
+running install
+running install_lib
+creating /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection
+copying /workspaces/Robotics/ros2_ws/build/vision_detection/build/lib/vision_detection/__init__.py -> /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection
+copying /workspaces/Robotics/ros2_ws/build/vision_detection/build/lib/vision_detection/setup.py -> /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection
+copying /workspaces/Robotics/ros2_ws/build/vision_detection/build/lib/vision_detection/vision_node.py -> /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection
+byte-compiling /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection/__init__.py to __init__.cpython-312.pyc
+byte-compiling /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection/setup.py to setup.cpython-312.pyc
+byte-compiling /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection/vision_node.py to vision_node.cpython-312.pyc
+running install_data
+creating /workspaces/Robotics/ros2_ws/install/vision_detection/share/ament_index/resource_index/packages
+copying resource/vision_detection -> /workspaces/Robotics/ros2_ws/install/vision_detection/share/ament_index/resource_index/packages
+copying package.xml -> /workspaces/Robotics/ros2_ws/install/vision_detection/share/vision_detection
+creating /workspaces/Robotics/ros2_ws/install/vision_detection/share/vision_detection/launch
+running install_egg_info
+Copying ../../build/vision_detection/vision_detection.egg-info to /workspaces/Robotics/ros2_ws/install/vision_detection/lib/python3.12/site-packages/vision_detection-1.0.0-py3.12.egg-info
+running install_scripts
+Installing robocup_vision script to /workspaces/Robotics/ros2_ws/install/vision_detection/bin
+writing list of installed files to '/workspaces/Robotics/ros2_ws/build/vision_detection/install.log'

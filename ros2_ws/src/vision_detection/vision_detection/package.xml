@@ -1,0 +1,18 @@
+#This file has the lists of what my package needs (dependencies) and what it does.
+<?xml version="1.0"?>
+<package format="3">
+  <name>vision_detection</name>
+  <version>1.0.0</version>
+  <description>RoboCup vision system for ball, goalpost and line detection - Created by Aysha Ahmed</description>
+  <maintainer email="ayshaahmed8642@gmail.com">Aysha Ahmed</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>cv_bridge</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
