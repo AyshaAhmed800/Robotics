@@ -42,9 +42,11 @@ cd /workspaces/Robotics/ros2_ws
 source /opt/ros/jazzy/setup.bash
 source install/setup.bash
 /workspaces/Robotics/ros2_ws/install/vision_detection/bin/robocup_vision
+```
 
 ###Terminal 2: Run the Test Publisher
 
+```bash
 cd /workspaces/Robotics/ros2_ws
 source /opt/ros/jazzy/setup.bash
 python3 -c "
